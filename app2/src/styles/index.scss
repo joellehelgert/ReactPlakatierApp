@@ -1,0 +1,11 @@
+$body-color: red;
+
+body {
+  color: $body-color;
+
+  li {
+    &::before {
+      background-color: pink;
+    }
+  }
+}
