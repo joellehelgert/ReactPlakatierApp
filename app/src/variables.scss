@@ -1,0 +1,29 @@
+$color-primary: #16697aff;
+$color-secondary: #82c0ccff;
+$color-highlight: #ffa62bff;
+$color-third: #489fb5ff;
+
+$color-lightgray: #eee;
+$color-gray: #a3a3a3;
+$color-darkgray: #333;
+
+$color-white: #ede7e3ff;
+$color-font: $color-darkgray;
+
+$font-family-base: 'Open Sans', sans-serif;
+$font-family-special: 'Luckiest Guy', cursive;
+$font-family-headlines: 'Josefin Slab', serif;
+
+$font-size-small: 0.8em;
+$font-size-large: 1.2em;
+$font-size-larger: 1.4em;
+$font-size-xl: 1.6em;
+
+
+.palette-6 {
+    --ming: #16697aff;
+    --pacific-blue: #489fb5ff;
+    --middle-blue: #82c0ccff;
+    --isabelline: #ede7e3ff;
+    --orange-peel: #ffa62bff;
+}
